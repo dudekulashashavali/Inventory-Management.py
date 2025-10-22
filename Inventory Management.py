@@ -1,4 +1,5 @@
 def create_inventory(items):
+    """22/10/25 """
     """
  
     :param items: list - list of items to create an inventory from.
